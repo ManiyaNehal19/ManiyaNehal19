@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working in AI automation<br>I'm looking to collaborate on AI driven SAAS<br>I'm currently learning ML/LLM<br>I am a University Student Embedded Systems Enthusiast Frontend & Backend Developer
+⭐ I'm currently working in AI automation<br>⭐ I'm looking to collaborate on AI driven SAAS<br>⭐ I'm currently learning ML/LLM<br>⭐ Frontend & Backend Developer
 
 
 ## 🌐 Socials:
